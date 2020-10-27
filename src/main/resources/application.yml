@@ -1,0 +1,5 @@
+spring:
+  jackson:
+    property-naming-strategy: SNAKE_CASE
+    mapper:
+      ACCEPT_CASE_INSENSITIVE_ENUMS: true
